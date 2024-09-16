@@ -12,7 +12,7 @@ public class SpringBootK8sDemoApplication {
     @GetMapping("/hello")
     public String HelloWorld(){
 
-        return "Welcome to EnggAdda";
+        return "Welcome to Microservices-2";
     }
 
     public static void main(String[] args) {
